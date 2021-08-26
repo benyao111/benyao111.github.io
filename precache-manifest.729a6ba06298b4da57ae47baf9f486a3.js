@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c79bef9aab1a9ca14d4ff8f35f985ac",
+    "revision": "7b096f7ea43e6ea405770eb6d2eaea57",
     "url": "/benyao111.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/benyao111.github.io/static/css/2.2f3fbb07.chunk.css"
   },
   {
-    "revision": "18e548d769ee896310ab",
+    "revision": "373853f99aabc50bb280",
     "url": "/benyao111.github.io/static/css/main.5bbeb688.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/benyao111.github.io/static/js/2.2ceb5214.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18e548d769ee896310ab",
-    "url": "/benyao111.github.io/static/js/main.6f3ffd98.chunk.js"
+    "revision": "373853f99aabc50bb280",
+    "url": "/benyao111.github.io/static/js/main.12b57146.chunk.js"
   },
   {
     "revision": "74fb7c38833bfedbf352",
