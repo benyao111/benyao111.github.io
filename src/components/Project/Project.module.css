@@ -1,0 +1,27 @@
+.header {
+  width: 100%;
+  text-align: center;
+  padding: 100px 0 0 0;
+}
+
+.PythonProjects {
+  width: 80%;
+  text-align: left;
+  padding: 20px 0 0 22%;
+}
+
+.header2 {
+  width: 100%;
+  text-align: left;
+  padding: 50px 0 0 20%;
+}
+
+.alink {
+  color: #fff;
+  text-decoration: none;
+}
+
+.alink:hover {
+  color: burlywood;
+  text-decoration: underline !important;
+}
