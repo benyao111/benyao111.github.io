@@ -1,0 +1,30 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "e2b3ef946c098bc2c3d321e4dd0c5f9b",
+    "url": "/benyao111/index.html"
+  },
+  {
+    "revision": "361f78a5aa7eea0e3e93",
+    "url": "/benyao111/static/css/2.2f3fbb07.chunk.css"
+  },
+  {
+    "revision": "b18a4c78e7273df008ef",
+    "url": "/benyao111/static/css/main.5bbeb688.chunk.css"
+  },
+  {
+    "revision": "361f78a5aa7eea0e3e93",
+    "url": "/benyao111/static/js/2.2ceb5214.chunk.js"
+  },
+  {
+    "revision": "b17489c7bc469614970e635453698a8d",
+    "url": "/benyao111/static/js/2.2ceb5214.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "b18a4c78e7273df008ef",
+    "url": "/benyao111/static/js/main.9594d935.chunk.js"
+  },
+  {
+    "revision": "9d09413e8880a2f01339",
+    "url": "/benyao111/static/js/runtime-main.ec41f3d9.js"
+  }
+]);
