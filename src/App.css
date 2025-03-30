@@ -27,15 +27,25 @@
   color: white;
 }
 
-.gridd {
+.flexx {
   background-color: #3b3c3f;
-  min-height: 100vh;
+  min-height: 70vh;
   width: 50%;
-  display: grid;
+  display: flex;
+  flex-direction: row;
+  gap: 10vw;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+@media (max-width: 800px) {
+  .flexx {
+    flex-direction: column; /* Stack items vertically */
+    gap: 10px; /* Add space between stacked items */
+    justify-content: center; /* Center items vertically (optional) */
+  }
 }
 
 .App-link {

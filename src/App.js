@@ -7,24 +7,24 @@ function App() {
     <div className="App">
       <div className="top">Donate</div>
       <header className="App-header">
-        <div className = "gridd">
-          <img src={cat} className = "profile-img" alt="cat" />
+        <div className = "flexx">
+          <img src={cat} className = "profile-img" alt="profile-image" />
           <div>
             <p>
               Ben Yao
             </p>
             <div>Auditor at Comcast</div>
+            <a href="https://www.linkedin.com/in/byao/"><img alt="linkedin"></img></a>
+            <a href="https://github.com/benyao111"><img alt="github"></img></a>
           </div>
         </div>
-        
+        <div>
+          <button>Resume</button>
+        </div>
       </header>
-      <div>
-        RESUME
-      </div>
-      <div>Projects</div>
-      <div>
-        Donate (could go up top as a header top right or something)
-      </div>
+      <div className="project-list">Projects</div>
+      
+      
     </div>
   );
 }
