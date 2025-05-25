@@ -2,11 +2,11 @@
   text-align: center;
 }
 
-.top {
-  background-color: #3b3c3f;
+.bot {
+  background-color: #2a2a2a;
   color: white;
   text-align: right;
-  padding-top: 1.5vmin;
+  padding-bottom: 1.5vmin;
   padding-right: 3vmin;
   font-size: 2vmin;
 }
@@ -18,7 +18,8 @@
 }
 
 .App-header {
-  background-color: #3b3c3f;
+  
+  background-color: #2a2a2a;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,10 +27,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
 }
 
 .flexx {
-  background-color: #3b3c3f;
+  
+  background-color: #2a2a2a;
   min-height: 30vh;
   width: 50%;
   display: flex;
@@ -39,8 +42,109 @@
   justify-content: space-evenly;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
+.icon-container{
+  margin-top: 3vmin;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+
+.resume{
+  background-color: white;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+  border: black;
+  padding: 15px 32px;
+  transition: all 0.3s ease;
+  border-radius: 3%;
+}
+
+.resume-container{
+  margin-top: 3vmax;
+}
+
+.resume:hover{
+  cursor: pointer;
+  box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24), 0 17px 50px 0 rgba(255, 255, 255, 0.19);
+  transform: translateY(-5px);
+}
+
+.icon{
+  width: 50px;
+  border-radius: 25%;
+  /*filter: invert(100%) brightness(200%);*/
+  transition: all 0.3s ease;
+}
+
+.icon:hover{
+  cursor: pointer;
+  
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(232, 231, 231, 0.19);
+  transform: translateY(-5px);
+}
+
+.project-list{
+  background-color: #2a2a2a;
+  font-size: 50px;
+  color: white;
+  padding-bottom: 3vmin;
+}
+
+
+.project-container{
+  background-color: #2a2a2a;
+  display: flex;
+  /* WHY DOES THIS CENTER STUFF, if i set flex direction to row it wont center .. */
+  align-items: center;
+  justify-content: center;
+}
+.project-div{
+  background-color: #2a2a2a;
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.example-project{
+  background-color: #2a2a2a;
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5vmax;
+  border-radius: 0%;
+  font-size: 12px;
+  color: white;
+  text-decoration: none;
+  text-align: left;
+  margin: 2.5vmin;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.example-project:hover{
+  cursor: pointer;
+  box-shadow: 0 2px 0px rgb(255, 255, 255);
+  transform: translateY(-4px)
+  /*box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(232, 231, 231, 0.19);
+  transform: translateY(-5px);*/
+}
+
+.project-icon{
+  width: 70px;
+  border-radius: 25%;
+}
+
+/*.text_left{
+  text-align: left;
+}*/
 @media (max-width: 800px) {
   .flexx {
     flex-direction: column; /* Stack items vertically */
