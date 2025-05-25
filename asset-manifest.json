@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/benyao111.github.io/static/css/main.3ceccdd6.css",
+    "main.js": "/benyao111.github.io/static/js/main.368170e8.js",
+    "static/js/453.6fafc78e.chunk.js": "/benyao111.github.io/static/js/453.6fafc78e.chunk.js",
+    "static/media/resume.pdf": "/benyao111.github.io/static/media/resume.0e3ba3386b0aa7dad96f.pdf",
+    "static/media/cat.jpg": "/benyao111.github.io/static/media/cat.d5ec7946b6e00add8c78.jpg",
+    "static/media/mailicon.svg": "/benyao111.github.io/static/media/mailicon.536ad50ffcc429f9aa55dc2226c02752.svg",
+    "static/media/githubwhite.svg": "/benyao111.github.io/static/media/githubwhite.1a3a949ea35a3620106ff4a425c197c4.svg",
+    "index.html": "/benyao111.github.io/index.html",
+    "static/media/homeicon.svg": "/benyao111.github.io/static/media/homeicon.84f21e473a4eb071e0a6fee5a15b1b94.svg",
+    "static/media/linkedinwhite.svg": "/benyao111.github.io/static/media/linkedinwhite.8983aeeabaafbb1ecf4c31cd312418d1.svg",
+    "main.3ceccdd6.css.map": "/benyao111.github.io/static/css/main.3ceccdd6.css.map",
+    "main.368170e8.js.map": "/benyao111.github.io/static/js/main.368170e8.js.map",
+    "453.6fafc78e.chunk.js.map": "/benyao111.github.io/static/js/453.6fafc78e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ceccdd6.css",
+    "static/js/main.368170e8.js"
+  ]
+}
