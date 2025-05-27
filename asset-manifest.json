@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3ceccdd6.css",
-    "main.js": "/static/js/main.e861ad88.js",
+    "main.js": "/static/js/main.c8213d0c.js",
     "static/js/453.6fafc78e.chunk.js": "/static/js/453.6fafc78e.chunk.js",
     "static/media/resume.pdf": "/static/media/resume.0e3ba3386b0aa7dad96f.pdf",
     "static/media/cat.jpg": "/static/media/cat.d5ec7946b6e00add8c78.jpg",
     "static/media/yt.svg": "/static/media/yt.289932797f4a270c0f91c608f7446628.svg",
     "static/media/mailicon.svg": "/static/media/mailicon.536ad50ffcc429f9aa55dc2226c02752.svg",
-    "static/media/discord.svg": "/static/media/discord.1f33f9c34f35d6520bb8d95aee686585.svg",
     "static/media/store.svg": "/static/media/store.203f1bad78ee944660cc5c774fafb749.svg",
     "static/media/githubwhite.svg": "/static/media/githubwhite.1a3a949ea35a3620106ff4a425c197c4.svg",
     "index.html": "/index.html",
@@ -15,11 +14,11 @@
     "static/media/finance.svg": "/static/media/finance.7888c43f8da52d33916f54c69741197d.svg",
     "static/media/linkedinwhite.svg": "/static/media/linkedinwhite.8983aeeabaafbb1ecf4c31cd312418d1.svg",
     "main.3ceccdd6.css.map": "/static/css/main.3ceccdd6.css.map",
-    "main.e861ad88.js.map": "/static/js/main.e861ad88.js.map",
+    "main.c8213d0c.js.map": "/static/js/main.c8213d0c.js.map",
     "453.6fafc78e.chunk.js.map": "/static/js/453.6fafc78e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ceccdd6.css",
-    "static/js/main.e861ad88.js"
+    "static/js/main.c8213d0c.js"
   ]
 }
