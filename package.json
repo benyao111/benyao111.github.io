@@ -1,7 +1,7 @@
 {
   "name": "personalpage",
   "version": "0.1.0",
-  "homepage": "https://benyao111.github.io/benyao111.github.io",
+  "homepage": "https://benyao111.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
